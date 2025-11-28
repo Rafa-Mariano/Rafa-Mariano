@@ -8,36 +8,6 @@ Posteriormente, desempenhei o papel de Técnico em Planejamento e de Analista de
 
 Atualmente, atuo como Analista Python na Confiança Financeira, onde continuo aprimorando minhas competências analíticas e de pesquisa. Esta nova experiência tem me proporcionado uma constante evolução em minhas habilidades analíticas, destacando minha atuação em criação de pipelines de dados, criação e manutenção de bancos de dados (SQL Server, MySQL), mineração de dados de diferentes fontes (API, automações, dados abertos), criação de dashboards com Power BI, documentações técnicas, soluções inteligentes com Python (Streamlit, Dash), criação de automações em Python (Selenium, BS4), integrações de automações e banco de dados com IA e organização de processos com Jestor.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
